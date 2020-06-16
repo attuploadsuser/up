@@ -1,2 +1,0 @@
-C:\Users\Public\tools\git\cmd\git clone https://attuploadsuser:4ttuploadsUser4.22@github.com/attuploadsuser/up.git;cd C:\Users\Public\up;
-C:\Users\Public\tools\git\cmd\git add C:\Users\Public\up\;C:\Users\Public\tools\git\cmd\git commit -m 'td';C:\Users\Public\tools\git\cmd\git push -u origin master;
